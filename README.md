@@ -11,6 +11,8 @@ We explored different Nike models, created price distributions, and visualized k
 ---
 
 📂 Project Structure
+
+```
 sneaker-market-analysis/
 ├── Sneakers_Code.Rmd             # RMarkdown script with full analysis
 ├── Sneakers_Code.html            # Rendered HTML report
@@ -21,6 +23,7 @@ sneaker-market-analysis/
 ├── Nike_shoes_2023-04-16.csv      # Dataset used for analysis
 ├── README.md                      # Project description
 ├── LICENSE                        # License information
+```
 ---
 
 📊 Example Analyses
