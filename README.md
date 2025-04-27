@@ -21,7 +21,6 @@ sneaker-market-analysis/
 ├── Nike_shoes_2023-04-16.csv      # Dataset used for analysis
 ├── README.md                      # Project description
 ├── LICENSE                        # License information
-
 ---
 
 📊 Example Analyses
