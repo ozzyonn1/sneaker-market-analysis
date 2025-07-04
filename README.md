@@ -1,16 +1,16 @@
 # Sneaker Market Analysis
 
-📊 Analyzing Nike sneaker models and trends using R.
+Analyzing Nike sneaker models and trends using R.
 
 ---
 
-📝 Project Description  
+Project Description  
 This project focuses on analyzing Nike sneaker data through data visualization and basic statistical analysis.  
 We explored different Nike models, created price distributions, and visualized key trends using R and RMarkdown.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 sneaker-market-analysis/
@@ -26,18 +26,18 @@ sneaker-market-analysis/
 ```
 ---
 
-## 📊 Example Analyses
+## Example Analyses
 - Model price distributions
 - Release trends
 - Brand visualization using bar plots and histograms
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 Various bar plots, histograms, images, and a GIF were used to illustrate the findings and enhance the presentation.
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the MIT License.
 See the [LICENSE](LICENSE) file for more details.
